@@ -4,3 +4,6 @@ Mario Royale App
 - Double click will put it in fullscreen or back to windowed mode.
 - Ctrl+Scroll will zoom the page in or out
 ![image](https://github.com/user-attachments/assets/4f4d7868-825a-45fc-b617-3ae92f84f56d)
+
+Made from AutoHotKey v2.
+Thx to WebViewToo.ahk and Panku from the AutoHotKey discord.
